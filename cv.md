@@ -1,4 +1,4 @@
- https://nastyamix.github.io/rsschool-cv/
+ ## [rsschool-cv](https://nastyamix.github.io/rsschool-cv/)
 # Anastasiya Mikhalko
 ## Contact info
 * Location: Gomel, Belarus
@@ -12,8 +12,9 @@ I want to study in RS School and become Frontend Developer.
 * CSS
 * JavaScript
 * Git
-## Code Exaple
-```function sc(floor) {
+## Code Example
+```
+function sc(floor) {
     let voice = "";
   if (floor <= 1) return voice;
   
@@ -32,7 +33,6 @@ I want to study in RS School and become Frontend Developer.
     return `${voice}Pa!`;
   }
 }
-
 ```
 ## Education
 * JavaScript on [learn.javascript.ru](https://learn.javascript.ru/)
